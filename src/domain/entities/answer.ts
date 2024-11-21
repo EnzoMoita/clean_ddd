@@ -19,4 +19,5 @@ export class Answer {
         this.questionId = props.questionId
     }
 
+
 }
